@@ -1,0 +1,18 @@
+﻿  X and O.cpp
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(57,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(116,141): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(116,82): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(145,165): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(145,90): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(160,98): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(160,72): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(161,117): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(161,85): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(162,129): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\X and O\X and O\X and O.cpp(162,84): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Génération de code en cours
+  3 of 137 functions ( 2.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  X and O.vcxproj -> C:\Users\Moldovan\source\repos\X and O\Release\X and O.exe
